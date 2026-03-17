@@ -1,0 +1,422 @@
+[
+  {
+    "name": "[Bestest Prize ♪] Haru Urara Career Goals",
+    "victory": false,
+    "category": [
+      "Career Goal"
+    ],
+    "requires": "|[Bestest Prize ♪] Haru Urara|"
+  },
+  {
+    "name": "[Full-Color Fangirling] Agnes Digital Career Goals",
+    "victory": false,
+    "category": [
+      "Career Goal"
+    ],
+    "requires": "|[Full-Color Fangirling] Agnes Digital|"
+  },
+  {
+    "name": "[Autumn Cosmos] Gold City Career Goals",
+    "victory": false,
+    "category": [
+      "Career Goal"
+    ],
+    "requires": "|[Autumn Cosmos] Gold City|"
+  },
+  {
+    "name": "[Red Strife] Gold Ship Career Goals",
+    "victory": false,
+    "category": [
+      "Career Goal"
+    ],
+    "requires": "|[Red Strife] Gold Ship|"
+  },
+  {
+    "name": "[Rising☆Fortune] Matikanefukukitaru Career Goals",
+    "victory": false,
+    "category": [
+      "Career Goal"
+    ],
+    "requires": "|[Rising☆Fortune] Matikanefukukitaru|"
+  },
+  {
+    "name": "[Clippety-Tippety-Clop] Matikanetannhauser Career Goals",
+    "victory": false,
+    "category": [
+      "Career Goal"
+    ],
+    "requires": "|[Clippety-Tippety-Clop] Matikanetannhauser|"
+  },
+  {
+    "name": "[Kukulkan Warrior] El Condor Pasa Career Goals",
+    "victory": false,
+    "category": [
+      "Career Goal"
+    ],
+    "requires": "|[Kukulkan Warrior] El Condor Pasa|"
+  },
+  {
+    "name": "[Down the Line] Mejiro Ryan Career Goals",
+    "victory": false,
+    "category": [
+      "Career Goal"
+    ],
+    "requires": "|[Down the Line] Mejiro Ryan|"
+  },
+  {
+    "name": "[Rosy Dreams] Rice Shower Career Goals",
+    "victory": false,
+    "category": [
+      "Career Goal"
+    ],
+    "requires": "|[Rosy Dreams] Rice Shower|"
+  },
+  {
+    "name": "[Wild Frontier] Taiki Shuttle Career Goals",
+    "victory": false,
+    "category": [
+      "Career Goal"
+    ],
+    "requires": "|[Wild Frontier] Taiki Shuttle|"
+  },
+  {
+    "name": "Asahi Hai Futurity Stakes",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Hanshin Juvenile Fillies",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Hopeful Stakes",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Oka Sho",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Satsuki Sho",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "NHK Mile Cup",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Japanese Oaks",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Tokyo Yushun (Japanese Derby)",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Yasuda Kinen",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Takarazuka Kinen",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Japan Dirt Derby",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Sprinters Stakes",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Kikuka Sho",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Shuka Sho",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Tenno Sho (Autumn)",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "JBC Classic",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "JBC Ladies’ Classic",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "JBC Sprint",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Queen Elizabeth II Cup",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Japan Cup",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Mile Championship",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Champions Cup",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Arima Kinen",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Tokyo Daishoten",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "February Stakes",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Osaka Hai",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Takamatsunomiya Kinen",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Tenno Sho (Spring)",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Victoria Mile",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Teio Sho",
+    "category": [
+      "G1 Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "URA Finale Qualifier",
+    "category": [
+      "EX Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "URA Finale Semifinal",
+    "category": [
+      "EX Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "URA Finale Finals",
+    "victory": false,
+    "category": [
+      "EX Race"
+    ],
+    "requires": "|@Trainee|"
+  },
+  {
+    "name": "Unity Cup Finals",
+    "victory": false,
+    "category": [
+      "EX Race"
+    ],
+    "requires": "|Progressive Scenario|"
+  },
+  {
+    "name": "Twinkle Star Climax Round 1",
+    "category": [
+      "EX Race"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Twinkle Star Climax Round 2",
+    "category": [
+      "EX Race"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Twinkle Star Climax Round 3",
+    "category": [
+      "EX Race"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Twinkle Star Climax Overall",
+    "victory": false,
+    "category": [
+      "EX Race"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Eat My Dust",
+    "category": [
+      "Epithet"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Heroine",
+    "category": [
+      "Epithet"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Goddess",
+    "category": [
+      "Epithet"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Dirt G1 Dominator",
+    "category": [
+      "Epithet"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Incredible",
+    "category": [
+      "Epithet"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Phenomenal",
+    "category": [
+      "Epithet"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Breakneck Miler",
+    "category": [
+      "Epithet"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Mile a Minute",
+    "category": [
+      "Epithet"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Legendary",
+    "category": [
+      "Epithet"
+    ],
+    "requires": "|Progressive Scenario:2|"
+  },
+  {
+    "name": "Finish",
+    "victory": true,
+    "category": [
+      "END"
+    ],
+    "requires": "|@Trainee:10| and |Progressive Scenario:2|"
+  }
+]

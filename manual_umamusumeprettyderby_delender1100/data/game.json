@@ -1,0 +1,12 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "UmamusumePrettyDerby",
+  "creator": "Delender1100",
+  "filler_item_name": "Elmers Glue",
+  "starting_items": [
+    {
+        "item_categories": ["Trainee"],
+        "random": 1
+    }
+   ]
+}
