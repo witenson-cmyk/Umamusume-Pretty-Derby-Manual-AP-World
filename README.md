@@ -16,7 +16,7 @@ Created using https://manualforarchipelago.github.io/ManualBuilder
 * Access to Scenarios
   * Each Progressvie Scenario unlocks the next scenario in order, Unity Cup and then Trackblazer
  
-## Recommended Changes
+## What to Edit Before Playing
 * Number of Support Cards in each Rarity
 * Which Trainees you want to use
   * Make sure to change the item name and location name for career goals completion to the name of the Trainee you want to use
