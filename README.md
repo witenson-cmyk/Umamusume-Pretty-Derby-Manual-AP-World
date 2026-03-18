@@ -3,12 +3,11 @@ Manual AP World for the Mobile and PC game Umamusume: Pretty Derby
 
 * Starts with 1 Trainee.
 * You are allowed to use any Rare Support Cards.
-* Goal is to complete all career goals with each Trainee as well as winning each scenario's finale.
-* Guts Card Trap: on your next run you have to use one Guts Card. If more than one trigger before the next run, then use that many Guts Cards.
+* Goal is to complete all career goals with 5 out of the 10 available trainees, as well as winning each scenario's finale.
 
 ## What is Randomized:
 * Access to Support Cards
-  * Number of Support cards is set to your own liking, so edit the number of Progressive Support Card items to your preference.
+  * Number of each support card type is set to your own liking, so edit the number of Progressive Support Card items to your preference.
 * Access to Legacies
   * Before Progressive Legacies is unlocked, you have to use one of the starting G rank legacies, or whichever lowest legacies you have if you got rid of them. Each Progressvie Legacy is another legacy slot.
 * Access to Trainees
