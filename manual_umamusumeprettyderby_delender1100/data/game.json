@@ -5,8 +5,10 @@
   "filler_item_name": "Elmers Glue",
   "starting_items": [
     {
-        "item_categories": ["Trainee"],
-        "random": 1
+      "item_categories": [
+        "Trainee"
+      ],
+      "random": 1
     }
-   ]
+  ]
 }

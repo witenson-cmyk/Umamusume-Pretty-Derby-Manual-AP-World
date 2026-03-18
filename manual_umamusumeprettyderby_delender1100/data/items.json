@@ -84,12 +84,6 @@
     "useful": true
   },
   {
-    "count": "5",
-    "name": "Guts Card Trap",
-    "category": [],
-    "trap": true
-  },
-  {
     "count": 1,
     "name": "[Fire at My Heels] Kitasan Black SSR Speed",
     "category": [
@@ -170,19 +164,17 @@
     "progression": true
   },
   {
-    "count": "5",
-    "name": "Progressive Support Card Slot",
+    "count": "1",
+    "name": "Progressive SR Guts",
     "category": [
       "Cards"
     ],
-    "progression": true
+    "useful": true
   },
   {
     "count": 1,
-    "name": "Borrow Support Card",
-    "category": [
-      "Cards"
-    ],
-    "progression": true
+    "name": "Progressive SSR Guts",
+    "category": [],
+    "useful": true
   }
 ]

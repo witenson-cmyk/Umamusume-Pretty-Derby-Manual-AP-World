@@ -417,6 +417,6 @@
     "category": [
       "END"
     ],
-    "requires": "|@Trainee:10| and |Progressive Scenario:2|"
+    "requires": "|@Trainee:5| and |Progressive Scenario:2|"
   }
 ]
