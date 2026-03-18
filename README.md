@@ -1,7 +1,6 @@
 # Umamusume Pretty Derby Manual AP World
 Manual AP World for the Mobile and PC game Umamusume: Pretty Derby
 
-Created using https://manualforarchipelago.github.io/ManualBuilder
 * Starts with 1 Trainee.
 * You are allowed to use any Rare Support Cards.
 * Goal is to complete all career goals with each Trainee as well as winning each scenario's finale.
@@ -21,3 +20,7 @@ Created using https://manualforarchipelago.github.io/ManualBuilder
 * Which Trainees you want to use
   * Make sure to change the item name and location name for career goals completion to the name of the Trainee you want to use
 * Use https://manualforarchipelago.github.io/ManualBuilder to edit AP World
+
+##
+
+Created using https://manualforarchipelago.github.io/ManualBuilder
