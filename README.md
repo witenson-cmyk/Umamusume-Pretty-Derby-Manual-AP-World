@@ -16,6 +16,9 @@ Manual AP World for the Mobile and PC game Umamusume: Pretty Derby
 * Access to Scenarios
   * Each Progressvie Scenario unlocks the next scenario in order, Unity Cup and then Trackblazer
 * Access to Clocks
+* Ability to Learn Skills
+* Ability to run in Non Goal Races
+  * For Trailmaker, can run until you reach the required point total.
  
 ## What to Edit Before Playing
 * Number of Support Cards in each Rarity
