@@ -2,8 +2,9 @@
 Manual AP World for the Mobile and PC game Umamusume: Pretty Derby
 
 * Starts with 1 Trainee.
-* You are allowed to use any Rare Support Cards.
-* Goal is to complete all career goals with 5 out of the 10 available trainees, as well as winning each scenario's finale.
+* You are allowed to use any Rare Support Cards as well as any Borrowed Card
+* Goal is to complete career goals with 3 different Trainees and Win the Trailmaker Championship
+  * Trailmaker Career goals Count
 
 ## What is Randomized:
 * Access to Support Cards
@@ -13,6 +14,7 @@ Manual AP World for the Mobile and PC game Umamusume: Pretty Derby
 * Access to Trainees
 * Access to Scenarios
   * Each Progressvie Scenario unlocks the next scenario in order, Unity Cup and then Trackblazer
+* Access to Clocks
  
 ## What to Edit Before Playing
 * Number of Support Cards in each Rarity
