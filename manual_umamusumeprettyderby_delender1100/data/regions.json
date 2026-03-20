@@ -1,6 +1,10 @@
 {
-  "": {
+  "Hard": {
     "starting": false,
+    "connects_to": [],
+    "requires": "|@Cards:5|"
+  },
+  "Easy": {
     "connects_to": [],
     "requires": ""
   }

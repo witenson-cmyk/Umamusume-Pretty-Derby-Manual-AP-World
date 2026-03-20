@@ -5,7 +5,8 @@
     "category": [
       "Career Goal"
     ],
-    "requires": "|[Bestest Prize ♪] Haru Urara|"
+    "requires": "|[Bestest Prize ♪] Haru Urara|",
+    "region": "Hard"
   },
   {
     "name": "[Full-Color Fangirling] Agnes Digital Career Goals",
@@ -13,7 +14,8 @@
     "category": [
       "Career Goal"
     ],
-    "requires": "|[Full-Color Fangirling] Agnes Digital|"
+    "requires": "|[Full-Color Fangirling] Agnes Digital|",
+    "region": "Hard"
   },
   {
     "name": "[Autumn Cosmos] Gold City Career Goals",
@@ -21,7 +23,8 @@
     "category": [
       "Career Goal"
     ],
-    "requires": "|[Autumn Cosmos] Gold City|"
+    "requires": "|[Autumn Cosmos] Gold City|",
+    "region": "Hard"
   },
   {
     "name": "[Red Strife] Gold Ship Career Goals",
@@ -29,7 +32,8 @@
     "category": [
       "Career Goal"
     ],
-    "requires": "|[Red Strife] Gold Ship|"
+    "requires": "|[Red Strife] Gold Ship|",
+    "region": "Hard"
   },
   {
     "name": "[Rising☆Fortune] Matikanefukukitaru Career Goals",
@@ -37,7 +41,8 @@
     "category": [
       "Career Goal"
     ],
-    "requires": "|[Rising☆Fortune] Matikanefukukitaru|"
+    "requires": "|[Rising☆Fortune] Matikanefukukitaru|",
+    "region": "Hard"
   },
   {
     "name": "[Clippety-Tippety-Clop] Matikanetannhauser Career Goals",
@@ -45,7 +50,8 @@
     "category": [
       "Career Goal"
     ],
-    "requires": "|[Clippety-Tippety-Clop] Matikanetannhauser|"
+    "requires": "|[Clippety-Tippety-Clop] Matikanetannhauser|",
+    "region": "Hard"
   },
   {
     "name": "[Kukulkan Warrior] El Condor Pasa Career Goals",
@@ -53,7 +59,8 @@
     "category": [
       "Career Goal"
     ],
-    "requires": "|[Kukulkan Warrior] El Condor Pasa|"
+    "requires": "|[Kukulkan Warrior] El Condor Pasa|",
+    "region": "Hard"
   },
   {
     "name": "[Down the Line] Mejiro Ryan Career Goals",
@@ -61,7 +68,8 @@
     "category": [
       "Career Goal"
     ],
-    "requires": "|[Down the Line] Mejiro Ryan|"
+    "requires": "|[Down the Line] Mejiro Ryan|",
+    "region": "Hard"
   },
   {
     "name": "[Rosy Dreams] Rice Shower Career Goals",
@@ -69,7 +77,8 @@
     "category": [
       "Career Goal"
     ],
-    "requires": "|[Rosy Dreams] Rice Shower|"
+    "requires": "|[Rosy Dreams] Rice Shower|",
+    "region": "Hard"
   },
   {
     "name": "[Wild Frontier] Taiki Shuttle Career Goals",
@@ -77,56 +86,64 @@
     "category": [
       "Career Goal"
     ],
-    "requires": "|[Wild Frontier] Taiki Shuttle|"
+    "requires": "|[Wild Frontier] Taiki Shuttle|",
+    "region": "Hard"
   },
   {
     "name": "Asahi Hai Futurity Stakes",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Hanshin Juvenile Fillies",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Hopeful Stakes",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Oka Sho",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Satsuki Sho",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "NHK Mile Cup",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Japanese Oaks",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Tokyo Yushun (Japanese Derby)",
@@ -140,205 +157,200 @@
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Takarazuka Kinen",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Japan Dirt Derby",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Sprinters Stakes",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Kikuka Sho",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Shuka Sho",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Tenno Sho (Autumn)",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "JBC Classic",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "JBC Ladies’ Classic",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "JBC Sprint",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Queen Elizabeth II Cup",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Japan Cup",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Mile Championship",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Champions Cup",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Arima Kinen",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Tokyo Daishoten",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "February Stakes",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Osaka Hai",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Takamatsunomiya Kinen",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Tenno Sho (Spring)",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Victoria Mile",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Teio Sho",
     "category": [
       "G1 Race"
     ],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "URA Finale Qualifier",
-    "category": [
-      "EX Race"
-    ],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "URA Finale Semifinal",
-    "category": [
-      "EX Race"
-    ],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "URA Finale Finals",
-    "victory": false,
-    "category": [
-      "EX Race"
-    ],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Unity Cup Finals",
-    "victory": false,
-    "category": [
-      "EX Race"
-    ],
-    "requires": "|Progressive Scenario|"
+    "requires": "|@Trainee|",
+    "region": "Hard"
   },
   {
     "name": "Twinkle Star Climax Round 1",
     "category": [
       "EX Race"
     ],
-    "requires": "|Progressive Scenario:2|"
+    "requires": "|Progressive Scenario:2|",
+    "region": "Hard"
   },
   {
     "name": "Twinkle Star Climax Round 2",
     "category": [
       "EX Race"
     ],
-    "requires": "|Progressive Scenario:2|"
+    "requires": "|Progressive Scenario:2|",
+    "region": "Hard"
   },
   {
     "name": "Twinkle Star Climax Round 3",
     "category": [
       "EX Race"
     ],
-    "requires": "|Progressive Scenario:2|"
+    "requires": "|Progressive Scenario:2|",
+    "region": "Hard"
   },
   {
     "name": "Twinkle Star Climax Overall",
@@ -346,70 +358,8 @@
     "category": [
       "EX Race"
     ],
-    "requires": "|Progressive Scenario:2|"
-  },
-  {
-    "name": "Eat My Dust",
-    "category": [
-      "Epithet"
-    ],
-    "requires": "|Progressive Scenario:2|"
-  },
-  {
-    "name": "Heroine",
-    "category": [
-      "Epithet"
-    ],
-    "requires": "|Progressive Scenario:2|"
-  },
-  {
-    "name": "Goddess",
-    "category": [
-      "Epithet"
-    ],
-    "requires": "|Progressive Scenario:2|"
-  },
-  {
-    "name": "Dirt G1 Dominator",
-    "category": [
-      "Epithet"
-    ],
-    "requires": "|Progressive Scenario:2|"
-  },
-  {
-    "name": "Incredible",
-    "category": [
-      "Epithet"
-    ],
-    "requires": "|Progressive Scenario:2|"
-  },
-  {
-    "name": "Phenomenal",
-    "category": [
-      "Epithet"
-    ],
-    "requires": "|Progressive Scenario:2|"
-  },
-  {
-    "name": "Breakneck Miler",
-    "category": [
-      "Epithet"
-    ],
-    "requires": "|Progressive Scenario:2|"
-  },
-  {
-    "name": "Mile a Minute",
-    "category": [
-      "Epithet"
-    ],
-    "requires": "|Progressive Scenario:2|"
-  },
-  {
-    "name": "Legendary",
-    "category": [
-      "Epithet"
-    ],
-    "requires": "|Progressive Scenario:2|"
+    "requires": "|Progressive Scenario:2|",
+    "region": "Hard"
   },
   {
     "name": "Finish",
@@ -417,6 +367,158 @@
     "category": [
       "END"
     ],
-    "requires": "|@Trainee:5| and |Progressive Scenario:2|"
+    "requires": "|@Trainee:3| and |Progressive Scenario:2|",
+    "region": "Hard"
+  },
+  {
+    "name": "Max Friendship with Support Card",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "20+ Stats in one Training",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "50+ Stats in one Training",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "70+ Stats in one Training",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Level 2 Stat Training",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Level 3 Stat Training",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Level 4 Stat Training",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Level 5 Stat Training",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Watch a full race with at least half of the VC Watching",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "1st Insperation",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "2nd Insperation",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "F Stat",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "D Stat",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "C Stat",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "B Stat",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "A Stat",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "S Stat",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Max out a Stat",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "G Tier Trainee",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "F Tier Trainee",
+    "category": [
+      "Training"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "D Tier Trainee",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "C Tier Trainee",
+    "category": [],
+    "requires": ""
+  },
+  {
+    "name": "B Tier Trainee",
+    "category": [],
+    "requires": ""
   }
 ]

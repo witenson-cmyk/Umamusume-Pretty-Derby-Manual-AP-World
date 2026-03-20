@@ -85,14 +85,6 @@
   },
   {
     "count": 1,
-    "name": "[Fire at My Heels] Kitasan Black SSR Speed",
-    "category": [
-      "Cards"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "[Kukulkan Warrior] El Condor Pasa",
     "category": [
       "Trainee"
@@ -176,5 +168,23 @@
     "name": "Progressive SSR Guts",
     "category": [],
     "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive Clocks",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Skill Learning",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Non Goal Races",
+    "category": [],
+    "progression": true
   }
 ]
