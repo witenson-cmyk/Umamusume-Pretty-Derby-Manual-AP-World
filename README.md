@@ -5,6 +5,7 @@ Manual AP World for the Mobile and PC game Umamusume: Pretty Derby
 * You are allowed to use any Rare Support Cards as well as any Borrowed Card
 * Goal is to complete career goals with 3 different Trainees and Win the Trailmaker Championship
   * Trailmaker Career goals Count
+* Intended for a short 3-5 hour Sync
 
 ## What is Randomized:
 * Access to Support Cards
