@@ -14,8 +14,8 @@
     "useful": true
   },
   {
-    "count": "2",
-    "name": "Progressive SR WIT",
+    "count": 1,
+    "name": "SR WIT",
     "category": [
       "Cards"
     ],
@@ -23,23 +23,23 @@
   },
   {
     "count": 1,
-    "name": "Progressive SSR Wit",
+    "name": "SSR Wit",
     "category": [
       "Cards"
     ],
     "useful": true
   },
   {
-    "count": "3",
-    "name": "Progressive SR Speed",
+    "count": 1,
+    "name": "SR Speed",
     "category": [
       "Cards"
     ],
     "useful": true
   },
   {
-    "count": "3",
-    "name": "Progressive SSR Speed",
+    "count": 1,
+    "name": "SSR Speed",
     "category": [
       "Cards"
     ],
@@ -52,32 +52,32 @@
     "progression": true
   },
   {
-    "count": "2",
-    "name": "Progressive SR Stamina",
+    "count": 1,
+    "name": "SR Stamina",
     "category": [
       "Cards"
     ],
     "useful": true
   },
   {
-    "count": "2",
-    "name": "Progressive SSR Stamina",
+    "count": 1,
+    "name": "SSR Stamina",
     "category": [
       "Cards"
     ],
     "useful": true
   },
   {
-    "count": "2",
-    "name": "Progressive SR Power",
+    "count": 1,
+    "name": "SR Power",
     "category": [
       "Cards"
     ],
     "useful": true
   },
   {
-    "count": "2",
-    "name": "Progressive SSR Power",
+    "count": 1,
+    "name": "SSR Power",
     "category": [
       "Cards"
     ],
@@ -156,8 +156,8 @@
     "progression": true
   },
   {
-    "count": "1",
-    "name": "Progressive SR Guts",
+    "count": 1,
+    "name": "SR Guts",
     "category": [
       "Cards"
     ],
@@ -165,8 +165,10 @@
   },
   {
     "count": 1,
-    "name": "Progressive SSR Guts",
-    "category": [],
+    "name": "SSR Guts",
+    "category": [
+      "Cards"
+    ],
     "useful": true
   },
   {
