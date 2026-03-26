@@ -21,7 +21,6 @@ Manual AP World for the Mobile and PC game Umamusume: Pretty Derby
   * For Trailmaker, can run until you reach the required point total.
  
 ## What to Edit Before Playing
-* Number of Support Cards in each Rarity
 * Which Trainees you want to use
   * Make sure to change the item name and location name for career goals completion to the name of the Trainee you want to use
 * Use https://manualforarchipelago.github.io/ManualBuilder to edit AP World
