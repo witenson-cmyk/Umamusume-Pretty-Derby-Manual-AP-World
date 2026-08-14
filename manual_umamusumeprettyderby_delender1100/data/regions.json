@@ -1,5 +1,6 @@
 {
-  "Easy": {
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "undefined": {
     "connects_to": [],
     "requires": ""
   }

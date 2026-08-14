@@ -1,192 +1,135 @@
-[
-  {
-    "count": 1,
-    "name": "[Full-Color Fangirling] Agnes Digital",
-    "category": [
-      "Trainee"
-    ],
-    "progression": true
-  },
-  {
-    "count": "2",
-    "name": "Progressive Legacy",
-    "category": [],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "SR WIT",
-    "category": [
-      "Cards"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "SSR Wit",
-    "category": [
-      "Cards"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "SR Speed",
-    "category": [
-      "Cards"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "SSR Speed",
-    "category": [
-      "Cards"
-    ],
-    "useful": true
-  },
-  {
-    "count": "2",
-    "name": "Progressive Scenario",
-    "category": [],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "SR Stamina",
-    "category": [
-      "Cards"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "SSR Stamina",
-    "category": [
-      "Cards"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "SR Power",
-    "category": [
-      "Cards"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "SSR Power",
-    "category": [
-      "Cards"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "[Kukulkan Warrior] El Condor Pasa",
-    "category": [
-      "Trainee"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "[Autumn Cosmos] Gold City",
-    "category": [
-      "Trainee"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "[Red Strife] Gold Ship",
-    "category": [
-      "Trainee"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "[Bestest Prize ♪] Haru Urara",
-    "category": [
-      "Trainee"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "[Rising☆Fortune] Matikanefukukitaru",
-    "category": [
-      "Trainee"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "[Clippety-Tippety-Clop] Matikanetannhauser",
-    "category": [
-      "Trainee"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "[Down the Line] Mejiro Ryan",
-    "category": [
-      "Trainee"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "[Rosy Dreams] Rice Shower",
-    "category": [
-      "Trainee"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "[Wild Frontier] Taiki Shuttle",
-    "category": [
-      "Trainee"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "SR Guts",
-    "category": [
-      "Cards"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "SSR Guts",
-    "category": [
-      "Cards"
-    ],
-    "useful": true
-  },
-  {
-    "count": "5",
-    "name": "Progressive Clocks",
-    "category": [],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Skill Learning",
-    "category": [],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Non Goal Races",
-    "category": [],
-    "progression": true
-  }
-]
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "6",
+      "name": "Progressive SR Cards",
+      "category": [
+        "Cards"
+      ],
+      "useful": true
+    },
+    {
+      "count": "6",
+      "name": "Progressive SSR Cards",
+      "category": [
+        "Cards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Speed Training",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Power Training",
+      "category": [
+        "Trainign"
+      ],
+      "progression": true
+    },
+    {
+      "count": "1",
+      "name": "Guts Training",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stamina Training",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wit Training",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Recreation",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Skill Buying",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": "3",
+      "name": "Progressive Race Skipping",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Scenario",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Inherit",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Guts Cards",
+      "category": [
+        "Card Type"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Wit Cards",
+      "category": [
+        "Card Type"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Speed Cards",
+      "category": [
+        "Card Type"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stamina Cards",
+      "category": [
+        "Card Type"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Power Cards",
+      "category": [
+        "Card Type"
+      ],
+      "useful": true
+    }
+  ]
+}

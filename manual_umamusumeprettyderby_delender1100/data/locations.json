@@ -1,343 +1,461 @@
-[
-  {
-    "name": "[Bestest Prize ♪] Haru Urara Career Goals",
-    "category": ["Career Goal"],
-    "requires": "|[Bestest Prize ♪] Haru Urara| and |@Cards:5|"
-  },
-  {
-    "name": "[Full-Color Fangirling] Agnes Digital Career Goals",
-    "category": ["Career Goal"],
-    "requires": "|[Full-Color Fangirling] Agnes Digital| and |@Cards:5|"
-  },
-  {
-    "name": "[Autumn Cosmos] Gold City Career Goals",
-    "category": ["Career Goal"],
-    "requires": "|[Autumn Cosmos] Gold City| and |@Cards:5|"
-  },
-  {
-    "name": "[Red Strife] Gold Ship Career Goals",
-    "category": ["Career Goal"],
-    "requires": "|[Red Strife] Gold Ship| and |@Cards:5|"
-  },
-  {
-    "name": "[Rising☆Fortune] Matikanefukukitaru Career Goals",
-    "category": ["Career Goal"],
-    "requires": "|[Rising☆Fortune] Matikanefukukitaru| and |@Cards:5|"
-  },
-  {
-    "name": "[Clippety-Tippety-Clop] Matikanetannhauser Career Goals",
-    "category": ["Career Goal"],
-    "requires": "|[Clippety-Tippety-Clop] Matikanetannhauser| and |@Cards:5|"
-  },
-  {
-    "name": "[Kukulkan Warrior] El Condor Pasa Career Goals",
-    "category": ["Career Goal"],
-    "requires": "|[Kukulkan Warrior] El Condor Pasa| and |@Cards:5|"
-  },
-  {
-    "name": "[Down the Line] Mejiro Ryan Career Goals",
-    "category": ["Career Goal"],
-    "requires": "|[Down the Line] Mejiro Ryan| and |@Cards:5|"
-  },
-  {
-    "name": "[Rosy Dreams] Rice Shower Career Goals",
-    "category": ["Career Goal"],
-    "requires": "|[Rosy Dreams] Rice Shower| and |@Cards:5|"
-  },
-  {
-    "name": "[Wild Frontier] Taiki Shuttle Career Goals",
-    "category": ["Career Goal"],
-    "requires": "|[Wild Frontier] Taiki Shuttle| and |@Cards:5|"
-  },
-  {
-    "name": "Asahi Hai Futurity Stakes",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Hanshin Juvenile Fillies",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Hopeful Stakes",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Oka Sho",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Satsuki Sho",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "NHK Mile Cup",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Japanese Oaks",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Tokyo Yushun (Japanese Derby)",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Yasuda Kinen",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Takarazuka Kinen",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Japan Dirt Derby",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Sprinters Stakes",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Kikuka Sho",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Shuka Sho",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Tenno Sho (Autumn)",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "JBC Classic",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "JBC Ladies' Classic",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "JBC Sprint",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Queen Elizabeth II Cup",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Japan Cup",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Mile Championship",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Champions Cup",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Arima Kinen",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Tokyo Daishoten",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "February Stakes",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Osaka Hai",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Takamatsunomiya Kinen",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Tenno Sho (Spring)",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Victoria Mile",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Teio Sho",
-    "category": ["G1 Race"],
-    "requires": "|@Trainee|"
-  },
-  {
-    "name": "Twinkle Star Climax Round 1",
-    "category": ["EX Race"],
-    "requires": "|Progressive Scenario:2| and |@Cards:5|"
-  },
-  {
-    "name": "Twinkle Star Climax Round 2",
-    "category": ["EX Race"],
-    "requires": "|Progressive Scenario:2| and |@Cards:5|"
-  },
-  {
-    "name": "Twinkle Star Climax Round 3",
-    "category": ["EX Race"],
-    "requires": "|Progressive Scenario:2| and |@Cards:5|"
-  },
-  {
-    "name": "Twinkle Star Climax Overall",
-    "category": ["EX Race"],
-    "requires": "|Progressive Scenario:2| and |@Cards:5|"
-  },
-  {
-    "name": "Finish",
-    "victory": true,
-    "category": ["END"],
-    "requires": "|@Trainee:3| and |Progressive Scenario:2|"
-  },
-  {
-    "name": "Max Friendship with Support Card",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "20+ Stats in one Training",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "50+ Stats in one Training",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "70+ Stats in one Training",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "Level 2 Stat Training",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "Level 3 Stat Training",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "Level 4 Stat Training",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "Level 5 Stat Training",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "Watch a full race with at least half of the VC Watching",
-    "category": [],
-    "requires": ""
-  },
-  {
-    "name": "1st Insperation",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "2nd Insperation",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "F Stat",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "D Stat",
-    "category": [],
-    "requires": ""
-  },
-  {
-    "name": "C Stat",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "B Stat",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "A Stat",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "S Stat",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "Max out a Stat",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "G Tier Trainee",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "F Tier Trainee",
-    "category": ["Training"],
-    "requires": ""
-  },
-  {
-    "name": "D Tier Trainee",
-    "category": [],
-    "requires": ""
-  },
-  {
-    "name": "C Tier Trainee",
-    "category": [],
-    "requires": ""
-  },
-  {
-    "name": "B Tier Trainee",
-    "category": [],
-    "requires": ""
-  }
-]
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Win a Pre-Op Race",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Win a Op Race",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Win a G3 Race",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Win a G2 Race",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Win a G1 Race",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Win the URA Finale",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Win the Unity Cup",
+      "category": [
+        "Career"
+      ],
+      "requires": "|Progressive Scenario|"
+    },
+    {
+      "name": "Put on a Successful Concert",
+      "category": [
+        "Career"
+      ],
+      "requires": "|Progressive Scenario:3|"
+    },
+    {
+      "name": "Put on a Concert with Great Success",
+      "category": [
+        "Career"
+      ],
+      "requires": "|Progressive Scenario:3|"
+    },
+    {
+      "name": "Perform the Final Concert",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Perform the Final Concert with Great Success",
+      "victory": true,
+      "category": [
+        "Goal"
+      ],
+      "requires": "|Progressive Scenario:3| AND |Speed Training| AND |Wit Training|"
+    },
+    {
+      "name": "Friendship Training with at least 1 Support",
+      "category": [
+        "Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Friendship Training with at least 2 Supports",
+      "category": [
+        "Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Friendship Training with at lest 3 Supports",
+      "category": [
+        "Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Get a Support to Maximum Friendship",
+      "category": [
+        "Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Get Director Akikawa to Maximum Friendship",
+      "category": [
+        "Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Unique Leveled up During Valentines Day",
+      "category": [
+        "Special"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Unique Leveled up during the Fan Festival",
+      "category": [
+        "Special"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Unique Leveled up during Holidays",
+      "category": [
+        "Special"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Buy a Gold Skill",
+      "category": [
+        "Specialhbg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 200",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 300",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 400",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 500",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 600",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 700",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 800",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 900",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 1000",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 1100",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 1200",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 1300",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 1400",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 1500",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training Skill 1600",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finish all Career Goals",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Get at least one other person to watch a full race and concert",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finish Career Goals up to Classic Year",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Finish Career Goals up to Senior Year",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training with 20 Skill Gain",
+      "category": [
+        "Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training with 30 Skill Gain",
+      "category": [
+        "Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training with 40 Skill Gain",
+      "category": [
+        "Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training with 50 Skill Gain",
+      "category": [
+        "Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Training with 60 Skill Gain",
+      "category": [
+        "Training"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete a Team Race",
+      "category": [
+        "Special"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Win a Team Race",
+      "category": [
+        "Special"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Win a Rival Race",
+      "category": [
+        "Career"
+      ],
+      "requires": "|Progressive Scenario:2|"
+    },
+    {
+      "name": "Get a Training Burst",
+      "category": [
+        "Career"
+      ],
+      "requires": "|Progressive Scenario|"
+    },
+    {
+      "name": "Get a Purple Training Burst",
+      "category": [
+        "Career"
+      ],
+      "requires": "|Progressive Scenario|"
+    },
+    {
+      "name": "Trainee Rank F",
+      "category": [
+        "Career"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Trainee Rank D",
+      "category": [
+        "Trainee Rank"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Trainee Rank C",
+      "category": [
+        "Trainee Rank"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Trainee Rank B",
+      "category": [
+        "Trainee Rank"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Trainee Rank A",
+      "category": [
+        "Trainee Rank"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Trainee Rank S",
+      "category": [
+        "Trainee Rank"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Trainee Rank A+",
+      "category": [
+        "Trainee Rank"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Trainee Rank B+",
+      "category": [
+        "Trainee Rank"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Trainee Rank C+",
+      "category": [
+        "Trainee Rank"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Trainee Rank D+",
+      "category": [
+        "Trainee Rank"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Trainee Rank F+",
+      "category": [
+        "Trainee Rank"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Fail a Training",
+      "category": [
+        "Special"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Succed in Training with above 0% Failure Rate",
+      "category": [
+        "Special"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Win a Race With Distance",
+      "category": [
+        "Special"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Max out a Training Skill",
+      "category": [
+        "Training Skill Level"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Get a Trainees Aptitude to S Rank",
+      "category": [
+        "Special"
+      ],
+      "requires": ""
+    }
+  ]
+}
