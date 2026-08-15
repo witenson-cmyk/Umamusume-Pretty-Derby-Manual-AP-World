@@ -1,0 +1,129 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "6",
+      "name": "Progressive SR Cards",
+      "category": [
+        "Cards"
+      ],
+      "progression": true
+    },
+    {
+      "count": "6",
+      "name": "Progressive SSR Cards",
+      "category": [
+        "Cards"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Speed Training",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Power Training",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": "1",
+      "name": "Guts Training",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stamina Training",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wit Training",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Recreation",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Skill Buying",
+      "category": [
+        "Training"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Scenario",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Inherit",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Guts Cards",
+      "category": [
+        "Card Type"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wit Cards",
+      "category": [
+        "Card Type"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Speed Cards",
+      "category": [
+        "Card Type"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stamina Cards",
+      "category": [
+        "Card Type"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Power Cards",
+      "category": [
+        "Card Type"
+      ],
+      "progression": true
+    }
+  ]
+}
