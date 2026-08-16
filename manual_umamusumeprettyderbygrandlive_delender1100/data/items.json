@@ -2,7 +2,7 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
   "data": [
     {
-      "count": "6",
+      "count": "5",
       "name": "Progressive SR Cards",
       "category": [
         "Cards"
@@ -10,7 +10,7 @@
       "progression": true
     },
     {
-      "count": "6",
+      "count": "5",
       "name": "Progressive SSR Cards",
       "category": [
         "Cards"
@@ -69,20 +69,16 @@
       "count": 1,
       "name": "Skill Buying",
       "category": [
-        "Training"
+        "Unlocks"
       ],
-      "progression": true
-    },
-    {
-      "count": "4",
-      "name": "Progressive Scenario",
-      "category": [],
       "progression": true
     },
     {
       "count": "2",
       "name": "Progressive Inherit",
-      "category": [],
+      "category": [
+        "Unlocks"
+      ],
       "progression": true
     },
     {
@@ -122,6 +118,54 @@
       "name": "Power Cards",
       "category": [
         "Card Type"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "SSR Scenario Link",
+      "category": [
+        "Scenario Link"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "SR Scenario Link",
+      "category": [
+        "Scenario Link"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pal Cards",
+      "category": [
+        "Card Type"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "2 Star Umas",
+      "category": [
+        "Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "3 Star Umas",
+      "category": [
+        "Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Optional Races",
+      "category": [
+        "Unlocks"
       ],
       "progression": true
     }

@@ -44,32 +44,25 @@
       "requires": ""
     },
     {
-      "name": "Win the Unity Cup",
-      "category": [
-        "Career"
-      ],
-      "requires": "|Progressive Scenario|"
-    },
-    {
       "name": "Put on a Successful Concert",
       "category": [
         "Career"
       ],
-      "requires": "|Progressive Scenario:3|"
+      "requires": ""
     },
     {
       "name": "Put on a Concert with Great Success",
       "category": [
         "Career"
       ],
-      "requires": "|Progressive Scenario:3|"
+      "requires": ""
     },
     {
       "name": "Perform the Final Concert",
       "category": [
         "Career"
       ],
-      "requires": "|Progressive Scenario:3|"
+      "requires": ""
     },
     {
       "name": "Perform the Final Concert with Great Success",
@@ -77,7 +70,7 @@
       "category": [
         "Goal"
       ],
-      "requires": "|Progressive Scenario:3| AND |Speed Training| AND |Wit Training|"
+      "requires": "|Speed Training| AND |Wit Training| AND |SSR Scenario Link| AND |Pal Cards| AND |Speed Cards| AND |Wit Cards|"
     },
     {
       "name": "Friendship Training with at least 1 Support",
@@ -220,34 +213,6 @@
       "requires": "(|Wit Cards| AND |Wit Training|) OR (|Speed Cards| AND |Speed Training|) OR (|Power Cards| AND |Power Training|) OR (|Stamina Cards| AND |Stamina Training|) OR (|Guts Cards| AND |Guts Training|)"
     },
     {
-      "name": "Training Skill 1300",
-      "category": [
-        "Training Skill Level"
-      ],
-      "requires": "((|Wit Cards| AND |Wit Training|) OR (|Speed Cards| AND |Speed Training|) OR (|Power Cards| AND |Power Training|) OR (|Stamina Cards| AND |Stamina Training|) OR (|Guts Cards| AND |Guts Training|)) AND |Progressive Scenario:1|"
-    },
-    {
-      "name": "Training Skill 1400",
-      "category": [
-        "Training Skill Level"
-      ],
-      "requires": "((|Wit Cards| AND |Wit Training|) OR (|Speed Cards| AND |Speed Training|) OR (|Power Cards| AND |Power Training|) OR (|Stamina Cards| AND |Stamina Training|) OR (|Guts Cards| AND |Guts Training|)) AND |Progressive Scenario:1|"
-    },
-    {
-      "name": "Training Skill 1500",
-      "category": [
-        "Training Skill Level"
-      ],
-      "requires": "((|Wit Cards| AND |Wit Training|) OR (|Speed Cards| AND |Speed Training|) OR (|Power Cards| AND |Power Training|) OR (|Stamina Cards| AND |Stamina Training|) OR (|Guts Cards| AND |Guts Training|)) AND |Progressive Scenario:3|"
-    },
-    {
-      "name": "Training Skill 1600",
-      "category": [
-        "Training Skill Level"
-      ],
-      "requires": "((|Wit Cards| AND |Wit Training|) OR (|Speed Cards| AND |Speed Training|) OR (|Power Cards| AND |Power Training|) OR (|Stamina Cards| AND |Stamina Training|) OR (|Guts Cards| AND |Guts Training|)) AND |Progressive Scenario:3|"
-    },
-    {
       "name": "Finish all Career Goals",
       "category": [
         "Career"
@@ -325,27 +290,6 @@
       "requires": ""
     },
     {
-      "name": "Win a Rival Race",
-      "category": [
-        "Career"
-      ],
-      "requires": "|Progressive Scenario:2|"
-    },
-    {
-      "name": "Get a Blue Training Burst",
-      "category": [
-        "Career"
-      ],
-      "requires": "|Progressive Scenario|"
-    },
-    {
-      "name": "Get a Purple Training Burst",
-      "category": [
-        "Career"
-      ],
-      "requires": "|Progressive Scenario|"
-    },
-    {
       "name": "Trainee Rank F",
       "category": [
         "Trainee Rank"
@@ -371,35 +315,28 @@
       "category": [
         "Trainee Rank"
       ],
-      "requires": ""
+      "requires": "(|Wit Cards| AND |Wit Training|) OR (|Speed Cards| AND |Speed Training|) OR (|Power Cards| AND |Power Training|) OR (|Stamina Cards| AND |Stamina Training|) OR (|Guts Cards| AND |Guts Training|)"
     },
     {
       "name": "Trainee Rank A",
       "category": [
         "Trainee Rank"
       ],
-      "requires": ""
-    },
-    {
-      "name": "Trainee Rank S",
-      "category": [
-        "Trainee Rank"
-      ],
-      "requires": ""
+      "requires": "(|Wit Cards| AND |Wit Training|) OR (|Speed Cards| AND |Speed Training|) OR (|Power Cards| AND |Power Training|) OR (|Stamina Cards| AND |Stamina Training|) OR (|Guts Cards| AND |Guts Training|)"
     },
     {
       "name": "Trainee Rank A+",
       "category": [
         "Trainee Rank"
       ],
-      "requires": ""
+      "requires": "(|Wit Cards| AND |Wit Training|) OR (|Speed Cards| AND |Speed Training|) OR (|Power Cards| AND |Power Training|) OR (|Stamina Cards| AND |Stamina Training|) OR (|Guts Cards| AND |Guts Training|)"
     },
     {
       "name": "Trainee Rank B+",
       "category": [
         "Trainee Rank"
       ],
-      "requires": ""
+      "requires": "(|Wit Cards| AND |Wit Training|) OR (|Speed Cards| AND |Speed Training|) OR (|Power Cards| AND |Power Training|) OR (|Stamina Cards| AND |Stamina Training|) OR (|Guts Cards| AND |Guts Training|)"
     },
     {
       "name": "Trainee Rank C+",
@@ -425,7 +362,7 @@
     {
       "name": "Fail a Training",
       "category": [
-        "Special"
+        "Training"
       ],
       "requires": ""
     },
@@ -441,7 +378,7 @@
       "category": [
         "Special"
       ],
-      "requires": ""
+      "requires": "|Skill Buying|we cou"
     },
     {
       "name": "Max out a Training Skill",
@@ -455,7 +392,7 @@
       "category": [
         "Special"
       ],
-      "requires": ""
+      "requires": "|Progressive Inherit:1|"
     },
     {
       "name": "Trainee Rank E",
@@ -468,6 +405,125 @@
       "name": "Trainee Rank E+",
       "category": [
         "Trainee Rank"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Run n' Run!",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Here Comes Our Time",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Believe in Miracles!",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Run for Our Dream!",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Our Blue Bird Days",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Zero is Where the Center Stands!",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Go This Way",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": " Grow Up and Shine! ",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": " Seven Colors Scenery ",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": " Sunbeam Cheer ",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": " Hoppity Sunny Days ♪ ",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": " Precious Treasure Box ",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": " Fanfare for the Future! ",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": " Dream Sky ",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": " Present March ♪ ",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": " The World's at Our Whim ",
+      "category": [
+        "Songs"
+      ],
+      "requires": ""
+    },
+    {
+      "name": " Sky-Blue Spring ",
+      "category": [
+        "Songs"
       ],
       "requires": ""
     }
